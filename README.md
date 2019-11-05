@@ -1,5 +1,7 @@
-# React Native GraphQL Using Hooks
-React native project which adding and showing country list from server using GraphQL.
+# React Native GraphQL+Redux demo with Hooks
+Simple demo which help you to start with graph ql and redux.
+Redux : For local state management
+GraphQL with Apollo client : For remote data handling
 
 ## Getting Started
 
@@ -16,6 +18,8 @@ Dependencies
   1. apollo-boost
   2. graphql
   3. react-apollo
+  4. redux
+  5. react-redux
 
 How to run app
   1. Open project in VS code
