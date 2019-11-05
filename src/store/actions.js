@@ -1,0 +1,1 @@
+export const SAVE_DATA_IN_STORE = 'SAVE_DATA_IN_STORE'
